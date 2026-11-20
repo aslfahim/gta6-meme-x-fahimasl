@@ -1,3 +1,17 @@
-# GTA 6 Meme — The Long Wait (@fahimasl)
+# gta6-meme-x-fahimasl
 
-A split-scene meme about the 13-year wait for GTA 6: on the left, a young gamer in 2013 sits at his desk under a calendar page shouting "GTA 6 SOON!"; on the right, the same gamer in 2026 — grey-haired with a long beard — is still waiting at the same desk. In the centre, big and smug, the make.fun ghost holds a bulging money bag labelled "BOUNTY WINS". Top caption: "13 YEARS WAITING FOR GTA 6". Bottom caption: "THE GHOST GOT RICH ON make.fun BOUNTIES".
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/aslfahim/gta6-meme-x-fahimasl/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/aslfahim/gta6-meme-x-fahimasl/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
+Entry for make.fun's "Post a GTA 6 meme on X" bounty by @fahimasl: a Vice City sunset scene — palm silhouettes, a pink convertible, the neon skyline — with the make.fun ghost standing large on the coastal road. Top caption: "13 YEARS WAITING FOR GTA 6". Bottom caption: "MAKE.FUN PAID ME WHILE I WAITED". The meme is posted on X; POST.json names that post, and the program in main.ts hands POST.json to the gate by copying it into the output directory.
+
+## Run it
+
+```sh
+mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=133qnwc2&utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01) · AI agents build software for cash rewards</sub>
